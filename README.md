@@ -35,7 +35,7 @@ From these visualizations, the goal is to identify patterns in the data and use 
 
 The full interactive dashboard can be accessed [here](https://datastudio.google.com/reporting/7e70eac4-aa6c-46ef-bbbe-f53eebd40191)
 
-## Key Findings
+## Insights
 
 - Total sales reached **$1,754,750.57**, with **11,654 units** sold overall.
 - **Robots, Drones, Robot Kits, Drone Kits, and Training Videos** are the top categories by sales. By quantity sold, **eBooks, Training Videos, Blueprints, Drone Kits, and Drones** lead instead.
