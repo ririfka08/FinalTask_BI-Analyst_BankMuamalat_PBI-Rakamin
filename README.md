@@ -45,7 +45,7 @@ The full interactive dashboard can be accessed [here](https://datastudio.google.
 - Investigate the cause of sales fluctuations in 2021.
 - Consider tracking repeat purchases to distinguish growth from new vs. returning customers.
 
-## Tools Used
+## Tools 
 
 - **Google BigQuery** — data storage, cleaning, and querying (JOINs, aggregation)
 - **Looker Studio** — dashboard and data visualization
