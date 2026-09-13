@@ -16,11 +16,6 @@ PT Sejahtera Bersama needs an analysis of its sales performance based on transac
 
 From these visualizations, the goal is to identify patterns in the data and use them to come up with practical recommendations that could help maintain or increase sales going forward.
 
-## Tools Used
-
-- **Google BigQuery** — data storage, cleaning, and querying (JOINs, aggregation)
-- **Looker Studio** — dashboard and data visualization
-
 ## Workflow
 
 1. **Determine Primary Keys** — validated each table's primary key using `COUNT(*)` vs `COUNT(DISTINCT column)` plus a null check.
@@ -49,4 +44,9 @@ The full interactive dashboard can be accessed [here](https://datastudio.google.
 - Prioritize stock availability for the most frequently ordered products, not just the highest-value ones.
 - Investigate the cause of sales fluctuations in 2021.
 - Consider tracking repeat purchases to distinguish growth from new vs. returning customers.
+
+## Tools Used
+
+- **Google BigQuery** — data storage, cleaning, and querying (JOINs, aggregation)
+- **Looker Studio** — dashboard and data visualization
 
