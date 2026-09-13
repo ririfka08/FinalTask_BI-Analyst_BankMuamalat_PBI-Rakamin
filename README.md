@@ -50,7 +50,3 @@ The full interactive dashboard can be accessed [here](https://datastudio.google.
 - Investigate the cause of sales fluctuations in 2021.
 - Consider tracking repeat purchases to distinguish growth from new vs. returning customers.
 
-## Author
-
-**Rifka Umdati**
-[LinkedIn](https://www.linkedin.com/in/rifkaumdati) · [GitHub](https://github.com/ririfka08) · [Website](https://ririfka08.github.io/)
