@@ -31,7 +31,7 @@ From these visualizations, the goal is to identify patterns in the data and use 
 
 ## Dashboard Preview
 
-![Dashboard](Dashboard/dashboard.png)
+![Dashboard](./dashboard.png)
 
 The full interactive dashboard can be accessed [here](https://datastudio.google.com/reporting/7e70eac4-aa6c-46ef-bbbe-f53eebd40191)
 
